@@ -1,0 +1,149 @@
+.gradient-custom-3 {
+    /* fallback for old browsers */
+    background: #84fab0;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5))
+    }
+    .gradient-custom-4 {
+    /* fallback for old browsers */
+    background: #84fab0;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1))
+    }
+
+    form > .divEducation
+        {
+        border-bottom: 5px solid black;
+        border-radius: 10px;
+        padding-bottom: .5rem;
+    }
+
+    .heading {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    }
+
+    body
+    {
+        
+        width: 100vw;
+        overflow-x: hidden;
+        
+    }
+
+
+    i:hover
+    {
+        transform:scale(1.15);
+    }
+
+    .form-control:focus
+    {
+        border: 1.5px solid green !important;
+        box-shadow: none !important;
+        outline: none !important;
+    }
+
+    .fs-6
+    {
+        font-size: 16px !important;
+    }
+ 
+    .fs-5mid
+    {
+        font-size: 18px !important;
+    }
+
+    .w-80
+    {
+        width: 90%;
+    }
+
+    .divContainer
+    {
+        padding: 6% 2rem !important;
+    }
+
+    .w-30
+    {
+        width: 30% !important;
+    }
+
+    *{
+        text-wrap: nowrap;
+    }
+
+    td{
+        padding:5px
+    }
+
+    table{
+          width: 90%;
+    }
+
+
+  .disableButton
+{
+  
+  cursor: not-allowed !important;
+
+}
+
+.edit
+{
+    display: none;
+}
+    
+.temp
+{
+    padding: 0 5rem;
+}
+
+.degreeDataColor
+{
+    color:chocolate
+}
+
+.addBtn
+{
+    display: flex;
+    align-items: center;
+}
+
+input ,textarea
+{
+    background-color: #f2f2f2 !important;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.disable
+{
+    cursor: not-allowed !important
+    
+}
+
+
+.error
+{
+    border: 1.5px solid red !important;
+}
+
+#remove1
+{
+    display: none;
+}
+
+.buttoncontainer
+{
+    padding-top:2.3rem;
+}
